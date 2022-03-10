@@ -19,7 +19,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 
 ## Tham khảo thêm
 
-
+- Sách: [operating system concepts-10th](https://archive.org/details/operating-system-concepts-10th/mode/2up)
 
 
 
