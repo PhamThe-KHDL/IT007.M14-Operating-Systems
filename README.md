@@ -20,7 +20,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 ## Tham khảo thêm
 
 - Sách: [operating system concepts-10th](https://archive.org/details/operating-system-concepts-10th/mode/2up)
-
+- Hướng dẫn sử dụng Vim cơ bản: [Youtube](https://www.youtube.com/playlist?list=PLadHcCIClRifMtZ4MVt41ptuN2v_VolHU)
 
 
 
