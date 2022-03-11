@@ -14,7 +14,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 
 | Buổi | Ngày | Nội Dung | LT/TH | Slide | Code | Video Record |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| 01 | 11/09/2021 | Tổng quan về hệ điều hành | LT-01 | [WEEK 01 - 11-09-2021](https://github.com/PhamThe-KHDL/IT007.M14-Operating-Systems/tree/main/L%C3%9D%20THUY%E1%BA%BET/WEEK%2001%20-%2011-09-2021) |  | [01 - Tổng quan về hệ điều hành](https://youtu.be/yxsLU9dN3a0) |
+| 01 | 11/09/2021 | Tổng quan về hệ điều hành | LT-01 | [WEEK 01](https://github.com/PhamThe-KHDL/IT007.M14-Operating-Systems/tree/main/L%C3%9D%20THUY%E1%BA%BET/WEEK%2001%20-%2011-09-2021) |  | [01 - Tổng quan về hệ điều hành](https://youtu.be/yxsLU9dN3a0) |
 | 02 |  |  |  |  |  |  |
 | 03 |  |  |  |  |  |  |
 | 04 |  |  |  |  |  |  |
