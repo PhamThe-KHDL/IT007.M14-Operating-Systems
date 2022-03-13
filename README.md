@@ -28,11 +28,11 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 | 12 | 29/10/2021 | TIẾN TRÌNH VÀ TIỂU TRÌNH | TH.1-03 |  |  | [Lab 03 - TIẾN TRÌNH VÀ TIỂU TRÌNH](https://youtu.be/NQNnZDa5adA) |
 | 13 | 30/10/2021 | Kiểm tra giữa kỳ |  | [Kiểm tra giữa kỳ](https://github.com/PhamThe-KHDL/IT007.M14-Operating-Systems/tree/main/TH%E1%BB%B0C%20H%C3%80NH/CLASS/Ki%E1%BB%83m%20tra%20gi%E1%BB%AF%20k%E1%BB%B3) |  |  |
 | 14 | 05/11/2021 | TIẾN TRÌNH VÀ TIỂU TRÌNH | TH.2-03 |  |  | [Lab 03 - TIẾN TRÌNH VÀ TIỂU TRÌNH](https://youtu.be/tOZgfktiomg) |
-| 15 | 06/11/2021 | Đồng bộ | LT-08 | [WEEK 08]() |  | [08 - Đồng bộ](https://youtu.be/51b757zP8s8) |
+| 15 | 06/11/2021 | Đồng bộ | LT-09 | [WEEK 09]() |  | [09 - Đồng bộ](https://youtu.be/51b757zP8s8) |
 | 16 | 12/11/2021 | LẬP LỊCH TIẾN TRÌNH | TH.1-04 |  |  | [Lab 04 - LẬP LỊCH TIẾN TRÌNH](https://youtu.be/02toLd22_6c) |
-| 17 | 13/11/2021 | Đồng bộ | LT-09 | [WEEK 09]() |  | [09 - Đồng bộ](https://youtu.be/9o6q7KremY4) |
+| 17 | 13/11/2021 | Đồng bộ | LT-10 | [WEEK 10]() |  | [10 - Đồng bộ](https://youtu.be/9o6q7KremY4) |
 | 18 | 19/11/2021 | LẬP LỊCH TIẾN TRÌNH | TH.2-04 |  |  | [Lab 04 - LẬP LỊCH TIẾN TRÌNH](https://youtu.be/bAImGcr8P1c) |
-| 19 | 20/11/2021 | Deadlocks | LT-10 | [WEEK 10]() |  | [10 - Deadlocks](https://youtu.be/rz7pWUFR0Dk) |
+| 19 | 20/11/2021 | Deadlocks | LT-11 | [WEEK 11]() |  | [11 - Deadlocks](https://youtu.be/rz7pWUFR0Dk) |
 | 20 |  |  |  |  |  |  |
 | 21 |  |  |  |  |  |  |
 | 22 |  |  |  |  |  |  |
