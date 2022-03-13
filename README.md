@@ -21,7 +21,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 | 05 | 02/10/2021 | Định thời CPU | LT-04 | [WEEK 04]() |  | [04 - Định thời CPU](https://youtu.be/HezNmQCpudY) |
 | 06 | 08/10/2021 | Thực hành các lệnh cơ bản của shell Linux | TH.2-01 |  |  | [Lab 01 - Thực hành các lệnh cơ bản của shell Linux](https://youtu.be/K0RHZguSOBg) |
 | 07 | 09/10/2021 | Định thời CPU | LT-05 | [WEEK 05]() |  | [05 - Định thời CPU](https://youtu.be/3hOTrYMF3G8) |
-| 08 |  |  |  |  |  |  |
+| 08 | 15/10/2021 | Lập trình trong môi trường shell | TH.1-02 |  |  | [Lab 02 - Lập trình trong môi trường shell](https://youtu.be/d6MpGmhpJgU) |
 | 09 |  |  |  |  |  |  |
 | 10 |  |  |  |  |  |  |
 | 11 |  |  |  |  |  |  |
