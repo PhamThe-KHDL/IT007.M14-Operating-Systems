@@ -29,7 +29,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 | 13 | 30/10/2021 | Kiểm tra giữa kỳ |  | [Kiểm tra giữa kỳ](https://github.com/PhamThe-KHDL/IT007.M14-Operating-Systems/tree/main/TH%E1%BB%B0C%20H%C3%80NH/CLASS/Ki%E1%BB%83m%20tra%20gi%E1%BB%AF%20k%E1%BB%B3) |  |  |
 | 14 | 05/11/2021 | TIẾN TRÌNH VÀ TIỂU TRÌNH | TH.2-03 |  |  | [Lab 03 - TIẾN TRÌNH VÀ TIỂU TRÌNH](https://youtu.be/tOZgfktiomg) |
 | 15 | 06/11/2021 | Đồng bộ | LT-08 | [WEEK 08]() |  | [08 - Đồng bộ](https://youtu.be/51b757zP8s8) |
-| 16 |  |  |  |  |  |  |
+| 16 | 12/11/2021 | LẬP LỊCH TIẾN TRÌNH | TH.1-04 |  |  | [Lab 04 - LẬP LỊCH TIẾN TRÌNH](https://youtu.be/02toLd22_6c) |
 | 17 |  |  |  |  |  |  |
 | 18 |  |  |  |  |  |  |
 | 19 |  |  |  |  |  |  |
