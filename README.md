@@ -35,11 +35,11 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 | 19 | 20/11/2021 | Deadlocks | LT-11 | [WEEK 11]() |  | [11 - Deadlocks](https://youtu.be/rz7pWUFR0Dk) |
 | 20 | 26/11/2021 | ĐỒNG BỘ HÓA TIẾN TRÌNH, TIỂU TRÌNH | TH.1-05 |  |  | [Lab 05 - ĐỒNG BỘ HÓA TIẾN TRÌNH, TIỂU TRÌNH](https://youtu.be/h5NwtOOeZ9o) |
 | 21 | 27/11/2021 | Quản lý bộ nhớ | LT-12 | [WEEK 12]() |  | [12 - Quản lý bộ nhớ](https://youtu.be/135JYuDcp00) |
-| 22 |  |  |  |  |  |  |
-| 23 |  |  |  |  |  |  |
+| 22 | 04/12/2021 | Bộ nhớ ảo | LT-13 | [WEEK 13]() |  | [13 - Bộ nhớ ảo](https://youtu.be/RM9s7V8yP1g) |
+| 23 | 10/12/2021 | QUẢN LÝ BỘ NHỚ | TH.1-06 |  |  | [Lab 06 - QUẢN LÝ BỘ NHỚ](https://youtu.be/COo1JrN6ROg) |
 | 24 |  |  |  |  |  |  |
 | 25 |  |  |  |  |  |  |
-
+| 26 |  |  |  |  |  |  |
 
 
 ## Tham khảo thêm
