@@ -18,8 +18,8 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 | 02 | 18/09/2021 | Cấu trúc hệ điều hành | LT-02 | [WEEK 02](https://github.com/PhamThe-KHDL/IT007.M14-Operating-Systems/tree/main/L%C3%9D%20THUY%E1%BA%BET/WEEK%2002%20-%2018-09-2021) |  | [02 - Cấu trúc hệ điều hành](https://youtu.be/U1z_AQX2gZQ) |
 | 03 | 25/09/2021 | Tiến trình | LT-03 | [WEEK 03]() |  | [03 - Tiến trình](https://youtu.be/61C2tIjESlg) |
 | 04 | 01/10/2021 | Thực hành các lệnh cơ bản của shell Linux | TH.1-01 |  |  | [Lab 01 - Thực hành các lệnh cơ bản của shell Linux](https://youtu.be/DIRr0meqOck) |
-| 05 |  |  |  |  |  |  |
-| 06 |  |  |  |  |  |  |
+| 05 | 02/10/2021 | Định thời CPU | LT-04 | [WEEK 04]() |  | [04 - Định thời CPU](https://youtu.be/HezNmQCpudY) |
+| 06 | 08/10/2021 | Thực hành các lệnh cơ bản của shell Linux | TH.2-01 |  |  | [Lab 01 - Thực hành các lệnh cơ bản của shell Linux](https://youtu.be/K0RHZguSOBg) |
 | 07 |  |  |  |  |  |  |
 | 08 |  |  |  |  |  |  |
 | 09 |  |  |  |  |  |  |
