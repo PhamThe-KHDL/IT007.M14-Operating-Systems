@@ -24,9 +24,8 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 | 08 | 15/10/2021 | Lập trình trong môi trường shell | TH.1-02 |  |  | [Lab 02 - Lập trình trong môi trường shell](https://youtu.be/d6MpGmhpJgU) |
 | 09 | 16/10/2021 | Định thời CPU | LT-06 | [WEEK 06]() |  |  |
 | 10 | 22/10/2021 | Lập trình trong môi trường shell | TH.2-02 |  |  | [Lab 02 - Lập trình trong môi trường shell](https://youtu.be/PZJuWkNKLPs) |
-| 11 | 29/10/2021 | Kiểm tra giữa kỳ |  |  | [Kiểm tra giữa kỳ](https://github.com/PhamThe-KHDL/IT007.M14-Operating-Systems/tree/main/TH%E1%BB%B0C%20H%C3%80NH/CLASS/Ki%E1%BB%83m%20tra%20gi%E1%BB%AF%20k%E1%BB%B3) |  |
-| 12 |  |  |  |  |  |  |
-| 13 |  |  |  |  |  |  |
+| 11 | 29/10/2021 | TIẾN TRÌNH VÀ TIỂU TRÌNH | TH.1-03 |  |  | [Lab 03 - TIẾN TRÌNH VÀ TIỂU TRÌNH](https://youtu.be/NQNnZDa5adA) |
+| 12 | 30/10/2021 | Kiểm tra giữa kỳ |  | [Kiểm tra giữa kỳ](https://github.com/PhamThe-KHDL/IT007.M14-Operating-Systems/tree/main/TH%E1%BB%B0C%20H%C3%80NH/CLASS/Ki%E1%BB%83m%20tra%20gi%E1%BB%AF%20k%E1%BB%B3) |  |  |
 | 14 |  |  |  |  |  |  |
 | 15 |  |  |  |  |  |  |
 | 16 |  |  |  |  |  |  |
