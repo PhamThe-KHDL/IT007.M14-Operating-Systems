@@ -31,8 +31,8 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 | 15 | 06/11/2021 | Đồng bộ | LT-08 | [WEEK 08]() |  | [08 - Đồng bộ](https://youtu.be/51b757zP8s8) |
 | 16 | 12/11/2021 | LẬP LỊCH TIẾN TRÌNH | TH.1-04 |  |  | [Lab 04 - LẬP LỊCH TIẾN TRÌNH](https://youtu.be/02toLd22_6c) |
 | 17 | 13/11/2021 | Đồng bộ | LT-09 | [WEEK 09]() |  | [09 - Đồng bộ](https://youtu.be/9o6q7KremY4) |
-| 18 |  |  |  |  |  |  |
-| 19 |  |  |  |  |  |  |
+| 18 | 19/11/2021 | LẬP LỊCH TIẾN TRÌNH | TH.2-04 |  |  | [Lab 04 - LẬP LỊCH TIẾN TRÌNH](https://youtu.be/bAImGcr8P1c) |
+| 19 | 20/11/2021 | Deadlocks | LT-10 | [WEEK 10]() |  | [10 - Deadlocks](https://youtu.be/rz7pWUFR0Dk) |
 | 20 |  |  |  |  |  |  |
 | 21 |  |  |  |  |  |  |
 | 22 |  |  |  |  |  |  |
